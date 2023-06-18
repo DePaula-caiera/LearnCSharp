@@ -1,0 +1,15 @@
+C:\CSharp\LearnCSharp\P15-EncadeandoFor\bin\Debug\net6.0\P15-EncadeandoFor.exe
+C:\CSharp\LearnCSharp\P15-EncadeandoFor\bin\Debug\net6.0\P15-EncadeandoFor.deps.json
+C:\CSharp\LearnCSharp\P15-EncadeandoFor\bin\Debug\net6.0\P15-EncadeandoFor.runtimeconfig.json
+C:\CSharp\LearnCSharp\P15-EncadeandoFor\bin\Debug\net6.0\P15-EncadeandoFor.dll
+C:\CSharp\LearnCSharp\P15-EncadeandoFor\bin\Debug\net6.0\P15-EncadeandoFor.pdb
+C:\CSharp\LearnCSharp\P15-EncadeandoFor\obj\Debug\net6.0\P15-EncadeandoFor.csproj.AssemblyReference.cache
+C:\CSharp\LearnCSharp\P15-EncadeandoFor\obj\Debug\net6.0\P15-EncadeandoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\LearnCSharp\P15-EncadeandoFor\obj\Debug\net6.0\P15-EncadeandoFor.AssemblyInfoInputs.cache
+C:\CSharp\LearnCSharp\P15-EncadeandoFor\obj\Debug\net6.0\P15-EncadeandoFor.AssemblyInfo.cs
+C:\CSharp\LearnCSharp\P15-EncadeandoFor\obj\Debug\net6.0\P15-EncadeandoFor.csproj.CoreCompileInputs.cache
+C:\CSharp\LearnCSharp\P15-EncadeandoFor\obj\Debug\net6.0\P15-EncadeandoFor.dll
+C:\CSharp\LearnCSharp\P15-EncadeandoFor\obj\Debug\net6.0\refint\P15-EncadeandoFor.dll
+C:\CSharp\LearnCSharp\P15-EncadeandoFor\obj\Debug\net6.0\P15-EncadeandoFor.pdb
+C:\CSharp\LearnCSharp\P15-EncadeandoFor\obj\Debug\net6.0\P15-EncadeandoFor.genruntimeconfig.cache
+C:\CSharp\LearnCSharp\P15-EncadeandoFor\obj\Debug\net6.0\ref\P15-EncadeandoFor.dll

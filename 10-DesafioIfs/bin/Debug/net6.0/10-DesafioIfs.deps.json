@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "10-DesafioIfs/1.0.0": {
+        "runtime": {
+          "10-DesafioIfs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10-DesafioIfs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

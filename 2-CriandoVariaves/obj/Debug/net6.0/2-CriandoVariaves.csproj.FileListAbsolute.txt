@@ -1,0 +1,15 @@
+C:\CSharp\LearnCSharp\2-CriandoVariaves\bin\Debug\net6.0\2-CriandoVariaves.exe
+C:\CSharp\LearnCSharp\2-CriandoVariaves\bin\Debug\net6.0\2-CriandoVariaves.deps.json
+C:\CSharp\LearnCSharp\2-CriandoVariaves\bin\Debug\net6.0\2-CriandoVariaves.runtimeconfig.json
+C:\CSharp\LearnCSharp\2-CriandoVariaves\bin\Debug\net6.0\2-CriandoVariaves.dll
+C:\CSharp\LearnCSharp\2-CriandoVariaves\bin\Debug\net6.0\2-CriandoVariaves.pdb
+C:\CSharp\LearnCSharp\2-CriandoVariaves\obj\Debug\net6.0\2-CriandoVariaves.csproj.AssemblyReference.cache
+C:\CSharp\LearnCSharp\2-CriandoVariaves\obj\Debug\net6.0\2-CriandoVariaves.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\LearnCSharp\2-CriandoVariaves\obj\Debug\net6.0\2-CriandoVariaves.AssemblyInfoInputs.cache
+C:\CSharp\LearnCSharp\2-CriandoVariaves\obj\Debug\net6.0\2-CriandoVariaves.AssemblyInfo.cs
+C:\CSharp\LearnCSharp\2-CriandoVariaves\obj\Debug\net6.0\2-CriandoVariaves.csproj.CoreCompileInputs.cache
+C:\CSharp\LearnCSharp\2-CriandoVariaves\obj\Debug\net6.0\2-CriandoVariaves.dll
+C:\CSharp\LearnCSharp\2-CriandoVariaves\obj\Debug\net6.0\refint\2-CriandoVariaves.dll
+C:\CSharp\LearnCSharp\2-CriandoVariaves\obj\Debug\net6.0\2-CriandoVariaves.pdb
+C:\CSharp\LearnCSharp\2-CriandoVariaves\obj\Debug\net6.0\2-CriandoVariaves.genruntimeconfig.cache
+C:\CSharp\LearnCSharp\2-CriandoVariaves\obj\Debug\net6.0\ref\2-CriandoVariaves.dll

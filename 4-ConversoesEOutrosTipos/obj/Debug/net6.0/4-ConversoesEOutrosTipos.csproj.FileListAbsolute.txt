@@ -1,0 +1,15 @@
+C:\CSharp\LearnCSharp\4-ConversoesEOutrosTipos\bin\Debug\net6.0\4-ConversoesEOutrosTipos.exe
+C:\CSharp\LearnCSharp\4-ConversoesEOutrosTipos\bin\Debug\net6.0\4-ConversoesEOutrosTipos.deps.json
+C:\CSharp\LearnCSharp\4-ConversoesEOutrosTipos\bin\Debug\net6.0\4-ConversoesEOutrosTipos.runtimeconfig.json
+C:\CSharp\LearnCSharp\4-ConversoesEOutrosTipos\bin\Debug\net6.0\4-ConversoesEOutrosTipos.dll
+C:\CSharp\LearnCSharp\4-ConversoesEOutrosTipos\bin\Debug\net6.0\4-ConversoesEOutrosTipos.pdb
+C:\CSharp\LearnCSharp\4-ConversoesEOutrosTipos\obj\Debug\net6.0\4-ConversoesEOutrosTipos.csproj.AssemblyReference.cache
+C:\CSharp\LearnCSharp\4-ConversoesEOutrosTipos\obj\Debug\net6.0\4-ConversoesEOutrosTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\LearnCSharp\4-ConversoesEOutrosTipos\obj\Debug\net6.0\4-ConversoesEOutrosTipos.AssemblyInfoInputs.cache
+C:\CSharp\LearnCSharp\4-ConversoesEOutrosTipos\obj\Debug\net6.0\4-ConversoesEOutrosTipos.AssemblyInfo.cs
+C:\CSharp\LearnCSharp\4-ConversoesEOutrosTipos\obj\Debug\net6.0\4-ConversoesEOutrosTipos.csproj.CoreCompileInputs.cache
+C:\CSharp\LearnCSharp\4-ConversoesEOutrosTipos\obj\Debug\net6.0\4-ConversoesEOutrosTipos.dll
+C:\CSharp\LearnCSharp\4-ConversoesEOutrosTipos\obj\Debug\net6.0\refint\4-ConversoesEOutrosTipos.dll
+C:\CSharp\LearnCSharp\4-ConversoesEOutrosTipos\obj\Debug\net6.0\4-ConversoesEOutrosTipos.pdb
+C:\CSharp\LearnCSharp\4-ConversoesEOutrosTipos\obj\Debug\net6.0\4-ConversoesEOutrosTipos.genruntimeconfig.cache
+C:\CSharp\LearnCSharp\4-ConversoesEOutrosTipos\obj\Debug\net6.0\ref\4-ConversoesEOutrosTipos.dll

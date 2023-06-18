@@ -1,0 +1,15 @@
+C:\CSharp\LearnCSharp\10-DesafioIfs\bin\Debug\net6.0\10-DesafioIfs.exe
+C:\CSharp\LearnCSharp\10-DesafioIfs\bin\Debug\net6.0\10-DesafioIfs.deps.json
+C:\CSharp\LearnCSharp\10-DesafioIfs\bin\Debug\net6.0\10-DesafioIfs.runtimeconfig.json
+C:\CSharp\LearnCSharp\10-DesafioIfs\bin\Debug\net6.0\10-DesafioIfs.dll
+C:\CSharp\LearnCSharp\10-DesafioIfs\bin\Debug\net6.0\10-DesafioIfs.pdb
+C:\CSharp\LearnCSharp\10-DesafioIfs\obj\Debug\net6.0\10-DesafioIfs.csproj.AssemblyReference.cache
+C:\CSharp\LearnCSharp\10-DesafioIfs\obj\Debug\net6.0\10-DesafioIfs.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\LearnCSharp\10-DesafioIfs\obj\Debug\net6.0\10-DesafioIfs.AssemblyInfoInputs.cache
+C:\CSharp\LearnCSharp\10-DesafioIfs\obj\Debug\net6.0\10-DesafioIfs.AssemblyInfo.cs
+C:\CSharp\LearnCSharp\10-DesafioIfs\obj\Debug\net6.0\10-DesafioIfs.csproj.CoreCompileInputs.cache
+C:\CSharp\LearnCSharp\10-DesafioIfs\obj\Debug\net6.0\10-DesafioIfs.dll
+C:\CSharp\LearnCSharp\10-DesafioIfs\obj\Debug\net6.0\refint\10-DesafioIfs.dll
+C:\CSharp\LearnCSharp\10-DesafioIfs\obj\Debug\net6.0\10-DesafioIfs.pdb
+C:\CSharp\LearnCSharp\10-DesafioIfs\obj\Debug\net6.0\10-DesafioIfs.genruntimeconfig.cache
+C:\CSharp\LearnCSharp\10-DesafioIfs\obj\Debug\net6.0\ref\10-DesafioIfs.dll
